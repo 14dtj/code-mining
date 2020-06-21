@@ -1,0 +1,3 @@
+EntityManager.createQuery
+        .setParameter
+        .getResultList
